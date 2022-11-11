@@ -39,4 +39,4 @@
       state: touch
   -name: set timezone
     timezone:
-      name: US
+      name: asia/kolkata
